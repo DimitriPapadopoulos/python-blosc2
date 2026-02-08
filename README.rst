@@ -158,7 +158,7 @@ Support Blosc for a Sustainable Future
 
 If you find Blosc useful and want to support its development, please consider
 making a `donation or contract to the Blosc Development Team
-<https://www.blosc.org/pages/blosc-in-depth/#support-blosc>`_
+<https://www.blosc.org/pages/blosc-in-depth/#support-blosc>`_.
 Thank you!
 
 
