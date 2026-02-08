@@ -124,7 +124,7 @@ to the core development of the Blosc2 library:
 - Oumaima Ech.Chdig
 - Ricardo Sales Piquer
 
-In addition, other people have participated to the project in different
+In addition, other people have participated in the project in different
 aspects:
 
 - Jan Sellner, contributed the mmap support for NDArray/SChunk objects.
