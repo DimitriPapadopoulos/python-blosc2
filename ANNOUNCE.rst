@@ -18,7 +18,7 @@ You can think of Python-Blosc2 4.x as an extension of NumPy/numexpr that:
 
 Install it with::
 
-    pip install blosc2 --update   # if you prefer wheels
+    pip install blosc2 --upgrade   # if you prefer wheels
     conda install -c conda-forge python-blosc2 mkl  # if you prefer conda and MKL
 
 For more info, you can have a look at the release notes in:
