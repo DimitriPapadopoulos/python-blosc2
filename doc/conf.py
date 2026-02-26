@@ -273,7 +273,6 @@ def linkcode_resolve(domain, info):
         return None
 
     import importlib
-    import inspect
 
     # Modify this to point to your package
     module_name = info["module"]
